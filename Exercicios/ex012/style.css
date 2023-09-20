@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+  background-color: cornflowerblue;
+
+}
+h1{
+    font-size: 2em ;
+    
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+h2 {
+    font: 1.7em;
+    
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+h3 {
+    font: 1.5em;
+    
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+h4 {
+    font: 1.3em;
+    
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+p {
+    font-family: 'Times New Roman', Times, serif ;
+    text-align: justify;
+}
