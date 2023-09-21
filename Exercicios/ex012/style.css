@@ -5,45 +5,45 @@ body{
 
 }
 h1{
-    font-size: 4em ;
+   
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 h2 {
-    font-size: 3.7em;
+    
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 h3 {
-    font-size: 3.5em;
+    
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 h4 {
-    font-size: 3.3em;
+   
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 p {
-    font-size: 2em;
+    
     font-family: 'Times New Roman', Times, serif ;
     text-align: justify;
 }
 ul{
-    font-size: 2em;
+    
     font-family: 'Times New Roman', Times, serif ;
     text-align: justify;
 }
 a {
-    font-size: 1em;
+    
     font-family: 'Times New Roman', Times, serif ;
     background-color: aqua;
 }
