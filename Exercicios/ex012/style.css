@@ -1,38 +1,49 @@
 @charset "UTF-8";
 
 body{
-  background-color: cornflowerblue;
+  background-image: linear-gradient(to right, #1e36e3, #5868db, #8890c4);
 
 }
 h1{
-    font-size: 2em ;
+    font-size: 4em ;
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 h2 {
-    font: 1.7em;
+    font-size: 3.7em;
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 h3 {
-    font: 1.5em;
+    font-size: 3.5em;
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 h4 {
-    font: 1.3em;
+    font-size: 3.3em;
     
     color: blue;
     background-color: aqua;
     text-align: center;
 }
 p {
+    font-size: 2em;
     font-family: 'Times New Roman', Times, serif ;
     text-align: justify;
+}
+ul{
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif ;
+    text-align: justify;
+}
+a {
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif ;
+    background-color: aqua;
 }
