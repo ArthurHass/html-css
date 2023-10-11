@@ -108,9 +108,18 @@ main > img {
     display: block;
 }
 
-div > img {
+.imagens > img {
     margin: auto;
-    size-adjust: auto;
+    width: 300px; 
+    height: 400px; 
+    margin: 5px; 
+}
+
+.mainimg > img {
+    margin: auto;
+    width: 300px; 
+    height: 400px; 
+    margin: 5px; 
 }
 footer{
     min-height: 5px;
